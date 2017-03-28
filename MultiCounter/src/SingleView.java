@@ -12,7 +12,7 @@ import javax.swing.JTextPane;
  */
 
 /**
- * @author Kog
+ * @author Kog-Dev
  *
  */
 public class SingleView extends JTextField {

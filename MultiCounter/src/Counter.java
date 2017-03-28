@@ -3,7 +3,7 @@
  */
 
 /**
- * @author Kog
+ * @author Kog-Dev
  *
  */
 public class Counter {

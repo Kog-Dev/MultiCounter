@@ -8,7 +8,7 @@ import javax.swing.*;
  */
 
 /**
- * @author Kog
+ * @author Kog-Dev
  *
  */
 public class Control extends JFrame {
